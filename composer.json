@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/firstdata",
+    "name": "rf1705/firstdata",
     "type": "library",
     "description": "First Data driver for the Omnipay payment processing library",
     "keywords": [
